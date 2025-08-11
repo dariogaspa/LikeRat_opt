@@ -1,5 +1,8 @@
 # LikeRat_opt
 This repo contains the LikeRatio method scripts for association between Fermi and low energy counterparts
+
+<img width="1005" height="931" alt="workflow_likelihood_colored" src="https://github.com/user-attachments/assets/bb208dd4-8716-4acb-9646-20d346dcd64b" />
+
 # Pipeline Likelihood & Reliability – RASS/Fermi
 ## 1️⃣ Creazione dei Fake
 Lancia lo script Python di creazione fake in modalità multi–process.
